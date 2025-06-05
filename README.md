@@ -1,36 +1,59 @@
-<!-- Typing SVG Header with Reformed flavor -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5C5CFF&center=true&vCenter=true&width=600&lines=Soli+Deo+Gloria!+Welcome+to+my+GitHub+%F0%9F%99%8F;I'm+[Your Name]+-+ALX+Back-End+Engineer;Coding+by+Grace+Alone+%E2%9C%A8;Always+Learning%2C+Never+Boasting+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+[Your+Name]+%F0%9F%91%8B;Back-End+Developer+%7C+ALX+Learner+%F0%9F%9A%80;Soli+Deo+Gloria+%F0%9F%99%8F" alt="Typing SVG" />
+</p>
+
+<!-- Calvinist Church Banner -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/St_Pierre_Geneva_2.jpg/1280px-St_Pierre_Geneva_2.jpg" width="650" alt="St. Pierre Cathedral – Geneva, where Calvin preached"/>
 </p>
 
 ---
 
-### 📖 About Me
+### 👨‍💻 About Me
 
-I am a back-end developer-in-training through the rigorous **ALX Software Engineering Program**.  
-I believe that just as salvation is **by grace through faith**, so is learning and mastery in software development — a gift, not a boast!  
+I am a passionate **Back-End Developer** and a current learner at the **ALX Software Engineering Program**.  
+My journey into software engineering began because: _**“I believe in a world governed by design, not chaos — a world where systems reflect the God of order.”**_
 
-> _"Whatever you do, work heartily, as for the Lord and not for men."_ – Colossians 3:23  
-
-My passion for software engineering is grounded in the joy of **solving real-world problems**, the elegance of **system design**, and the satisfaction of **order out of chaos** — an echo of the Creator's design.
+👁️ **What Inspires Me:**  
+I’m driven by solving real-world problems and creating efficient systems — while living **_Coram Deo_** (before the face of God).
 
 💡 **My Vision:**  
-To glorify God through excellent work in technology, building scalable, secure systems that serve people and reflect order, logic, and clarity.
-
-🚀 **What I Love Working On:**  
-- 🛠 Clean, Testable Code  
-- 🧠 System Design & Architecture  
-- 📦 Building RESTful APIs  
-- 🔐 Security-first Applications  
-- 🧰 Contributing to OSS with a missional heart
+To build tools that serve both human needs and divine glory.  
+> _“Whatever you do, do it all for the glory of God.” – 1 Corinthians 10:31_
 
 ---
 
-### 📜 Core Beliefs (in Code & Life)
+### ✝️ My Faith & Code: The TULIP Developer 🌷
+
+> The Five Points of Calvinism reflected in my development philosophy:
+
+| Doctrine | Meaning | Developer Analogy |
+|---------|---------|-------------------|
+| **T – Total Depravity** | Human nature is flawed | No system is perfect without intentional design & refactoring |
+| **U – Unconditional Election** | God's grace chooses freely | I didn’t choose tech, it chose me — sovereignly 🙏 |
+| **L – Limited Atonement** | Christ died for the elect | My code is written with a specific user in mind |
+| **I – Irresistible Grace** | God’s grace never fails | When tech meets purpose — you can't resist building |
+| **P – Perseverance of the Saints** | True faith endures | I refactor, test, debug — and persevere through all setbacks 🔧 |
+
+---
+
+### 🔧 Skills & Tools
+
+| Languages | Frameworks & Libraries | Tools & Platforms |
+|----------|-------------------------|-------------------|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+---
+
+### 🕊 Reformed Developer's Creed
 
 ```yaml
-SolaScriptura: "Source code is authoritative, version-controlled, and immutable."
-SolaGratia: "My bugs are many, but grace is sufficient."
-SolaFide: "I trust the process, even when tests fail."
-SolusChristus: "One mediator between stack and user – the DevOps Engineer."
-SoliDeoGloria: "All commits, for God's glory alone."
+SolaScriptura: "Code by the documentation."
+SolaGratia: "Every bug fixed is grace alone."
+SolaFide: "Tests pass by faith, not effort alone."
+SolusChristus: "Only through Christ do I commit."
+SoliDeoGloria: "Every project is for God's glory."
+
